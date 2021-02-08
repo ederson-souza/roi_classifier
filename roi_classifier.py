@@ -4,7 +4,7 @@ import os
 import numpy as np
 import cv2
 import pafy
-import youtube_dl
+
 
 from mxnet import gluon, nd, image
 from mxnet.gluon.data.vision import transforms
