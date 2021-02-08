@@ -7,7 +7,6 @@ This application classifies a custom ROI as car or not a car.
 - Apache MXNet
 - OpenCV
 - GluonCV: a Deep Learning Toolkit for Computer Vision
-- Youtube_dl
 - Pafy
 - Bounding-box
 - Numpy
