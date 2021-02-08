@@ -27,4 +27,4 @@ Select a ROI using drag and drop in the opened image and press ENTER.
 The processed video will be stored in the folder named "output".
 
 
-
+![](result.gif)
