@@ -5,3 +5,4 @@ pafy
 youtube_dl
 mxnet
 gluoncv
+bounding-box
