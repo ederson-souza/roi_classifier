@@ -1,8 +1,6 @@
 numpy==1.19.5
 opencv-python
-PyYAML==5.1
 pafy
-youtube_dl
 mxnet
 gluoncv
 bounding-box
